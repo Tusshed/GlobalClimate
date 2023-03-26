@@ -9,14 +9,14 @@
  }
  
  .app {
-     background-image: url('./assets/pexels-kaique-rocha-290617.jpg');
+     background-image: url('./assets/pexels-daniel-frank-287229.jpg');
      background-size: cover;
      background-position: bottom;
      transition: 0.4s ease-out;
  }
  
  .app.warm {
-     background-image: url('./assets/pexels-daniel-frank-287229.jpg');
+     background-image: url('./assets/sun-setting-sun-sunset-water-68768.jpeg');
  }
  
  main {
@@ -78,7 +78,7 @@
      margin: 30px auto;
      background-color: rgba(255, 255, 255, 0.2);
      padding: 15px 25px;
-     color: rgb(77, 69, 55);
+     color: rgb(129, 114, 84);
      font-size: 102px;
      font-weight: 900;
      text-align: center;
